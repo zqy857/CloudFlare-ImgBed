@@ -153,7 +153,7 @@ Provides detailed deployment documentation, feature docs, development plans, upd
 
 # 3. Demo
 
-**Demo Address**: [CloudFlare ImgBed](https://cfbed.1314883.xyz/) Access Password: `cfbed`
+**Demo Address**: [CloudFlare ImgBed](https://cloudfiles.dpdns.org) Access Password: `cfbed`
 
 ![image-20250313204101984](static/readme/login.png)
 
